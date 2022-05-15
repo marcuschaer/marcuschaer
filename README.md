@@ -6,6 +6,7 @@ Hi, I’m @dptsss. Blockchain engineer and interested in blockchain, solidity, e
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dptsss&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
  
+ <div>
   <img align="center" alt="Js" height="80" width="90" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="React" height="60" width="70" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="CSS" height="50" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -18,3 +19,10 @@ Hi, I’m @dptsss. Blockchain engineer and interested in blockchain, solidity, e
  <img align="center" alt="Notion" height="60" width="70" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
  <img align="center" alt="Mitsubishi" height="80" width="90" src="https://aleen42.github.io/badges/src/mitsubishi.svg">
  <img align="center" alt="Laborghini" height="80" width="90" src="https://aleen42.github.io/badges/src/lamborghini.svg">
+</div>
+ 
+<div
+  <a href = "mailto:marcuschaer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcuschaer" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
