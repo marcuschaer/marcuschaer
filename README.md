@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dptsss
-- 👀 I’m a blockchain engineer and interested in blockchain, python.
+- 👀 I’m a blockchain engineer and interested in blockchain, python, js, web3, html and rails.
 - 🌱 I’m currently learning everything I can.
 - 💞️ I’m looking to collaborate on whatever.
 - 📫 How to reach me ...
