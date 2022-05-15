@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @dptsss
-- 👀 I’m a blockchain engineer and interested in blockchain, python, js, web3, html and rails.
-- 🌱 I’m currently learning everything I can.
-- 💞️ I’m looking to collaborate on whatever.
-- 📫 How to reach me ...
+ Hi, I’m @dptsss. Blockchain engineer and interested in blockchain, python, js, web3, html and rails.
 
-<!---
-dptsss/dptsss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/dptsss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dptsss&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dptsss&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</div>
