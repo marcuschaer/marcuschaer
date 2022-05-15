@@ -1,4 +1,4 @@
-Hi, I’m @marcuschaer. Blockchain engineer and interested in blockchain, solidity, economy, tradaing, python, js, web3, html and ruby.
+Hi, I’m @marcuschaer. Interested in blockchain, solidity, Economy, Management, Trading, python, js, web3, html and ruby.
 
 <div align="center">
  <a href="https://github.com/marcuschaer">
